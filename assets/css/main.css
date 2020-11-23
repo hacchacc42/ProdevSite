@@ -6,7 +6,6 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
-
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -32,11 +31,12 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
-
 ol, ul {
 	list-style: none;
 }
-
+.thisone{
+	color:#3F0D21 !important;
+}
 blockquote, q {
 	quotes: none;
 }
@@ -2123,7 +2123,6 @@ input, select, textarea {
 			left: 0;
 			top: 0;
 		}
-
 	#nav ul {
 		list-style: none;
 		padding-left: 0;
