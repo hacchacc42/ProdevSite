@@ -72,6 +72,10 @@ input, select, textarea {
 	appearance: none;
 }
 
+.photo
+{
+	border-radius:50% !important;
+}
 /* Basic */
 
 	html {
